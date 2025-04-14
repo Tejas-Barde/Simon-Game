@@ -7,10 +7,6 @@ A web-based Simon Game built using **HTML**, **CSS**, and **JavaScript**. Test y
 Play the game here: [Simon Game Live Demo](#)  
 *(Add your hosted link here if available)*
 
-## 📷 Preview
-
-![Simon Game Screenshot](screenshot.png)  
-*(Replace with an actual screenshot of your game)*
 
 ## 🛠️ Tech Stack
 
@@ -25,6 +21,4 @@ Play the game here: [Simon Game Live Demo](#)
 3. Click the buttons in the same order.
 4. With every correct round, the sequence gets longer.
 5. One wrong click and the game resets!
-
-## 📁 Project Structure
 
